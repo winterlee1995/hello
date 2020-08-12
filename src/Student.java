@@ -12,6 +12,6 @@ public class Student {
 
     public static void main(String[] args) {
         System.out.println("I am a student ,my name is winter-lee");
-        //System.out.println("second");
+        System.out.println("second");
     }
 }
